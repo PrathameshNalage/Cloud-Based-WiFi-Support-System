@@ -111,3 +111,9 @@ python app.py
 📊 **Data Analytics Dashboard** for IT staff to track WiFi issue trends.  
 
 ---
+## Contributors
+- **Prathamesh & Team**
+
+## 📩  Contact
+- **GitHub**: [PrathameshNalage](#) (https://github.com/PrathameshNalage)
+- **Email**: [prathameshnalage123@gmail.com](prathameshnalage123@gmail.com)
