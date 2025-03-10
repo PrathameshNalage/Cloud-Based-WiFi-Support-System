@@ -65,3 +65,49 @@ Cloud-WiFi-Support/
 ├── backend/                  # Backend logic for handling user queries
 ├── documentation/            # Project documentation
 └── requirements.txt          # Python dependencies
+
+## **🛠 Installation & Setup**
+
+### **💻 Prerequisites**
+
+- 🐍 Python 3.x
+- ☁️ AWS Account (for EC2 hosting)
+- 🔗 Internet connection
+
+### **🚀 Setup Steps**
+
+2️⃣ **Install Dependencies**
+
+```sh
+pip install -r requirements.txt
+```
+
+3️⃣ **Run the AI Chatbot Locally**
+
+```sh
+python app.py
+```
+
+4️⃣ **Deploy on AWS EC2**
+
+```plaintext
+- Create an AWS EC2 instance.
+- Configure security groups to allow web traffic.
+- Deploy the chatbot script on the cloud server.
+```
+
+## **🏆 Results**
+
+✅ **Instant troubleshooting** with AI-powered chatbot responses.  
+✅ **Significant reduction** in IT staff workload for network troubleshooting.  
+✅ **Scalable & reliable** cloud hosting for seamless query handling.  
+
+---
+
+## **🚀 Future Enhancements**
+
+🌍 **Multi-Language Support** for diverse user groups.  
+🔒 **Enhanced Security Features** for **user authentication & privacy**.  
+📊 **Data Analytics Dashboard** for IT staff to track WiFi issue trends.  
+
+---
